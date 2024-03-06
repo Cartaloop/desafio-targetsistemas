@@ -1,3 +1,5 @@
+package fibonacciSequence;
+
 import java.util.Scanner;
 
 public class FibonacciSequence {
